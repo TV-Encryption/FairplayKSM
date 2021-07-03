@@ -1,6 +1,6 @@
 # FairplayKSM
 
-C Bridging module for Fairplay Server
+_C Bridging module for Fairplay Server_
 
 ## Setup instructions
 
