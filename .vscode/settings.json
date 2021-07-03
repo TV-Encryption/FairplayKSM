@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": true,
+    "python.linting.enabled": false,
+    "files.associations": {
+        "skdserver.h": "c",
+        "platformtypes.h": "c",
+        "skdserverd.h": "c"
+    }
+}

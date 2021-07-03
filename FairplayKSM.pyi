@@ -1,0 +1,3 @@
+from typing import Callable, Tuple
+
+def generate_ckc(key_ref: bytes, spc: bytes, key_fetch_callback: Callable[[bytes], Tuple[bytes, bytes]], p_key_pem: bytes, ask: bytes) -> bytes: ...
